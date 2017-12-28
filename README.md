@@ -1,4 +1,4 @@
-![](https://github.com/R3C0Nx00/RedGate/blob/master/redgate.png)
+![](https://github.com/R3C0Nx00/RedGate/blob/master/images/redgate.png)
 
 ## What is this?
 This is a penetration testing tool for testers to use to store aquired data is a packagable way. Portable, easy to use, and cross-platform.
